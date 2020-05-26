@@ -1,2 +1,2 @@
-# skillfactory_rds
+# SkillFactory
 ## DST-9
